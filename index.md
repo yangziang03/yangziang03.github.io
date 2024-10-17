@@ -27,4 +27,4 @@ Some relevant undergraduate course content：
 
 Fluid Mechanics, Computational Fluid Dynamics, Environmental Fluid Mechanics, Multiphase Flow, Thermodynamics and Statistical Mechanics, Numerical Computational Methods, Fundamentals of Machine Learning, Quantum Computing
 
-These are my undergraduate grades (as of the end of the third-year second semester):[Undergraduate Grades](https://yangziang03.github.io/mypaper/thesis/IP-report.pdf)
+These are my undergraduate grades (as of the end of the third-year second semester):[Undergraduate Grades](https://yangziang03.github.io/mypaper/thesis/grades.pdf)
