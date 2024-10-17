@@ -6,6 +6,10 @@ title: Hobbies
 
 # ReadMe
 
+---
+
+
+
 ## Hobbies
 
 Playing badminton, singing, drawing comics, and traveling, Solving Rubik’s cubes
