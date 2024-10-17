@@ -29,10 +29,8 @@ Fluid Mechanics, Computational Fluid Dynamics, Environmental Fluid Mechanics, Mu
 
 These are my undergraduate grades (as of the end of the third-year second semester):
 
-**[Undergraduate Grades](file\CV-IoE.pdf)**
+**[Undergraduate Grades](CV-IoE.pdf)**
 
 ---
-
-
 
 ## 你好
