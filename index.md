@@ -21,8 +21,18 @@ I am interested in applying mathematics and physics to the real world, and I am 
 
 ---
 
-## News and Updates
+## Undergraduate Courses
+
+Some relevant undergraduate course content：
+
+Fluid Mechanics, Computational Fluid Dynamics, Environmental Fluid Mechanics, Multiphase Flow, Thermodynamics and Statistical Mechanics, Numerical Computational Methods, Fundamentals of Machine Learning, Quantum Computing
+
+These are my undergraduate grades (as of the end of the third-year second semester):
+
+**[Undergraduate Grades](file\CV-IoE.pdf)**
 
 ---
+
+
 
 ## 你好
