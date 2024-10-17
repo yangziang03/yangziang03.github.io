@@ -29,7 +29,7 @@ Fluid Mechanics, Computational Fluid Dynamics, Environmental Fluid Mechanics, Mu
 
 These are my undergraduate grades (as of the end of the third-year second semester):
 
-**[Undergraduate Grades](yangziang03.github.io/blob/main/mypaper/thesis/IP-report.pdf)**
+**[Undergraduate Grades](https://github.com/yangziang03/yangziang03.github.io/blob/main/mypaper/thesis/UG-thesis.pdf)**
 
 ---
 
